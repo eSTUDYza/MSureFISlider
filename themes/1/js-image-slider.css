@@ -11,7 +11,7 @@
 
 #slider, #slider .sliderInner {
     width:640px;height:370px;/* Must be the same size as the slider images */
-    border-radius:0px;
+    border-radius:3px;
 }
 
 #slider {
